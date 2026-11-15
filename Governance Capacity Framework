@@ -1,0 +1,210 @@
+
+
+### Humanitarian Project (+1HP)
+
+### Statute-to-Policy Matrix & Governance Capacity Framework
+
+Proposed governance document · Federal baseline · State and local applicability to be mapped separately
+
+Purpose: Translate applicable constitutional provisions, statutes, regulations, and legal duties into operational policies, evidence requirements, institutional controls, oversight procedures, and corrective remedies.
+
+The matrix is designed to answer one central question:
+
+How does an institution demonstrate that its policies and actual conduct comply with the law governing its authority, records, finances, procurement, research, and treatment of the public?
+
+The framework distinguishes five things that must not be conflated:
+
+* Law: the controlling legal authority.
+
+* Policy: the institution's internal method for complying with that authority.
+
+* Control: the practical safeguard intended to prevent or detect noncompliance.
+
+* Evidence: the records demonstrating what occurred.
+
+* Remedy: the lawful process for correcting an established failure.
+
+This is a proposed +1HP governance architecture, not a declaration that any institution has violated the laws listed.
+
+### 1\. Federal statute-to-policy matrix
+
+The following matrix provides the initial federal baseline. Each legal authority is translated into a proposed institutional policy, control, evidence record, and review pathway.
+
+# STATUTE-TO-POLICY MATRIX
+**Humanitarian Project (+1HP)**
+**Framework:** Independent Epistemic Science Committee (ESC)
+**Document:** HP-ESC-008
+**Classification:** Proposed Governance Architecture
+**Jurisdictional Baseline:** United States Federal
+**State and Local Extensions:** To be completed by jurisdiction.
+
+## A. Constitutional and administrative authority
+
+| Legal authority                                             | Legal subject                                                                     | Proposed institutional policy                         | Required control                                                     | Evidence / records                                                       |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| U.S. Constitution; applicable amendments                    | Government authority, rights, due process, equal protection, separation of powers | Constitutional and Legal Authority Policy             | Authority and rights review before material decisions                | Enabling authority, delegations, notices, decisions, hearing records     |
+| Administrative Procedure Act — 5 U.S.C. §§ 551–559, 701–706 | Federal agency rulemaking, adjudication, procedure, judicial review               | Administrative Legality and Decision Integrity Policy | Legal review, procedural checklist, reasoned decision documentation  | Rules, orders, administrative records, public comments, findings         |
+| 5 U.S.C. § 552                                              | Federal public information and records access                                     | Public Records Access and Disclosure Policy           | FOIA intake, search, exemption review, response tracking             | Requests, search records, determinations, appeals, released records      |
+| 5 U.S.C. § 552a                                             | Federal records about individuals                                                 | Personal Information and Privacy Policy               | Collection, use, disclosure, accuracy, access, and safeguards review | System-of-records notices, access logs, correction requests, disclosures |
+
+## B. Documentary and epistemic integrity
+
+| Legal authority | Legal subject | Proposed institutional policy | Required control | Evidence / records |
+|---|---|---|---|---|
+| Federal Records Act — 44 U.S.C. §§ 3101–3107, 3301 et seq. | Creation, preservation, management, and disposition of federal records | Documentary Integrity and Records Preservation Policy | Retention schedules, authorized disposition, preservation holds, audit trails | Original records, metadata, revisions, correspondence, decision files |
+| 44 U.S.C. § 3101 | Adequate documentation of agency organization, functions, policies, decisions, procedures, and essential transactions | Decision Traceability Policy | Require material decisions to have identifiable supporting records | Decision memoranda, approvals, transaction documentation |
+| Information Quality Act — Pub. L. 106-554, § 515 | Federal information quality guidelines | Research and Information Quality Policy | Document information quality standards and correction processes where applicable | Data provenance, methodology, quality reviews, correction requests |
+| Foundations for Evidence-Based Policymaking Act of 2018 — Pub. L. 115-435 | Federal evidence-building, evaluation, and data governance | Evidence-Based Policy and Research Integrity Policy | Evidence plans, evaluation methods, data governance, privacy safeguards | Research plans, datasets, methodology, evaluation reports |
+
+## C. Institutional oversight and accountability
+
+| Legal authority                                               | Legal subject                                                           | Proposed institutional policy                      | Required control                                                                           | Evidence / records                                                                |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| Inspector General Act of 1978, as amended; 5 U.S.C. Chapter 4 | Independent oversight, audits, investigations, and recommendations      | Independent Oversight and Audit Cooperation Policy | Preserve independence and lawful access; document referrals and responses                  | Audit reports, investigation records, recommendations, corrective-action tracking |
+| Whistleblower Protection Act and 5 U.S.C. § 2302              | Covered federal employee disclosures and prohibited personnel practices | Protected Disclosure and Anti-Retaliation Policy   | Confidential reporting channels, impartial review, retaliation safeguards                  | Disclosure records, personnel actions, chronology, investigative findings         |
+| Federal Advisory Committee Act — 5 U.S.C. Chapter 10          | Covered federal advisory committees                                     | Committee Establishment and Governance Policy      | Determine whether FACA applies before establishing or using a committee for federal advice | Charter, membership, purpose, meetings, minutes, recommendations                  |
+| Government in the Sunshine Act — 5 U.S.C. § 552b              | Open meetings of covered federal agency collegial bodies                | Open Meeting and Public Deliberation Policy        | Determine coverage, exemptions, notice, and applicable meeting requirements                | Notices, agendas, minutes, attendance, closure determinations                     |
+
+## D. Financial, procurement, and economic integrity
+
+| Legal authority                                                                            | Legal subject                                                                           | Proposed institutional policy                           | Required control                                                                   | Evidence / records                                                         |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Federal Acquisition Regulation (FAR), including applicable conflict-of-interest provisions | Federal acquisition and contracting                                                     | Procurement Transparency and Conflict Management Policy | Competition review, conflict disclosures, source-selection controls                | Solicitations, proposals, evaluations, awards, modifications               |
+| Procurement Integrity Act — 41 U.S.C. Chapter 21                                           | Restrictions on obtaining and disclosing specified procurement information              | Procurement Information Protection Policy               | Access controls and restrictions on protected source-selection and bid information | Access logs, communications, disclosure reports, procurement files         |
+| False Claims Act — 31 U.S.C. §§ 3729–3733                                                  | Certain knowing false claims and related conduct involving government money or property | Public Funds and Claims Integrity Policy                | Invoice verification, certification review, exception reporting                    | Invoices, certifications, payment records, contract performance evidence   |
+| Sherman Act — 15 U.S.C. §§ 1–2                                                             | Specified restraints of trade and monopolization                                        | Competition and Economic Power Integrity Policy         | Competition-risk review and referral of credible concerns to competent authorities | Market analysis, agreements, pricing records, procurement competition data |
+| Clayton Act — 15 U.S.C. §§ 12–27                                                           | Specified anticompetitive arrangements and mergers                                      | Market Concentration and Transaction Review Policy      | Review relevant transactions and conduct under applicable statutory standards      | Merger records, exclusive arrangements, tying evidence, market data        |
+
+## E. Internal control and public-resource protection
+
+| Legal authority / standard | Legal subject | Proposed institutional policy | Required control | Evidence / records |
+|---|---|---|---|---|
+| Federal Managers' Financial Integrity Act — 31 U.S.C. § 3512 | Federal agency accounting and internal controls | Financial Management and Internal Control Policy | Risk assessment, control testing, corrective action | Financial reports, reconciliations, control assessments |
+| GAO Standards for Internal Control in the Federal Government (Green Book, 2025 revision) | Federal internal control framework | Institutional Risk and Control Policy | Preventive controls, documented risk assessments, information security safeguards | Risk registers, control matrices, testing, remediation records |
+| Applicable federal grant statutes and regulations | Federal assistance and grant administration | Grant Accountability and Performance Policy | Eligibility, allowable-cost, reporting, monitoring, and closeout review | Applications, award terms, expenditure records, performance reports |
+
+## F. Required institutional policy architecture
+
+Every policy derived from a legal authority should contain:
+
+1. Policy identification and version.
+2. Legal authority and precise statutory or regulatory provision.
+3. Covered institution, personnel, contractors, or transactions.
+4. Scope and jurisdiction.
+5. Required conduct and prohibited conduct.
+6. Responsible official or operational owner.
+7. Preventive and detective controls.
+8. Evidence and record-retention requirements.
+9. Disclosure, reporting, and escalation procedures.
+10. Oversight and independent review.
+11. Corrective action and legally available remedies.
+12. Review date and amendment history.
+
+## G. Evidence classification
+
+Every review must distinguish:
+
+- Verified fact
+- Firsthand observation
+- Documentary evidence
+- Allegation
+- Inference
+- Hypothesis
+- Disputed matter
+- Unsubstantiated claim
+- Unknown matter
+- Proposed corrective action
+
+An allegation is not a finding. An absence of records is not automatically proof of intentional destruction. An identified control weakness is not automatically proof of fraud. Legal conclusions require application of the actual statutory elements and applicable standards.
+
+## H. State and local extension fields
+
+For each additional jurisdiction, complete:
+
+| Required field | Entry |
+|---|---|
+| State / territory | To be identified |
+| County / municipality | To be identified |
+| Governing constitution | Applicable provision |
+| State administrative procedure law | Statutory citation |
+| Public records law | Statutory citation |
+| Open meetings law | Statutory citation |
+| Records retention law | Statutory citation |
+| Procurement law | Statutory citation |
+| Whistleblower protection | Statutory citation |
+| Inspector General / audit authority | Applicable authority |
+| Enforcement or appeal forum | Applicable body or court |
+| Relevant deadlines | Verified statutory or procedural deadlines |
+
+## I. Institutional integrity acceptance criteria
+
+A policy is not considered operational merely because it has been drafted.
+
+It should be evaluated against these acceptance criteria:
+
+- Legal authority is identified and verified.
+- Applicability and jurisdiction are established.
+- A responsible policy owner is assigned.
+- Operational controls are documented.
+- Evidence requirements are defined.
+- Records can be retrieved and authenticated.
+- Conflicts of interest are disclosed and reviewed.
+- Exceptions and exemptions are documented.
+- Oversight and escalation pathways are identified.
+- Corrective actions are assigned, tracked, and tested.
+- Implementation evidence is retained.
+- The policy is periodically reviewed for legal and operational changes.
+
+**Implementation status must be classified separately as:** Proposed, Drafted, Approved, Adopted, Implemented, Tested, or Independently Verified.
+
+### Governing principle
+
+Law establishes institutional obligations and limitations. Policy translates those requirements into organizational practice. Controls reduce the risk of failure. Records establish what occurred. Independent review evaluates whether the institution complied. Remedies address established violations.
+
+**Institutional integrity is demonstrated through verifiable compliance, not through institutional terminology or declarations of compliance.**
+
+### 2\. Legal references and implementation notes
+
+The matrix uses current federal statutory text and the 2025 GAO Green Book. Some especially important distinctions:
+
+* Federal Records Act: 44 U.S.C. § 3101 requires adequate documentation of federal agency decisions and essential transactions; § 3102 addresses agency records-management programs. U.S. Code +1
+
+* FOIA: 5 U.S.C. § 552 provides access to covered federal agency records, subject to exemptions. It does not create a universal public-records right against every state, local, or private entity. U.S. Code
+
+* Whistleblower protection: 5 U.S.C. § 2302 applies to specified federal personnel actions and disclosures. It should not be presented as a universal protection statute for every worker or private contractor. U.S. Code
+
+* Procurement Integrity Act: 41 U.S.C. § 2102 addresses certain prohibited disclosures and acquisition of protected procurement information; it is not a general prohibition on all private influence over procurement. U.S. Code
+
+* False Claims Act: 31 U.S.C. § 3729 requires the applicable statutory elements, including knowing conduct and a qualifying false claim or related conduct. U.S. Code
+
+* Federal Advisory Committee Act: 5 U.S.C. Chapter 10 requires careful coverage analysis. Congress expressly stated that new federal advisory committees should be established only when essential and that their functions are generally advisory. U.S. Code +1
+
+* GAO Green Book: The 2025 revision became effective beginning with fiscal year 2026. It emphasizes preventive controls, risk assessment, fraud, improper payments, and information security. U.S. GAO +1
+
+### 3\. Recommended implementation sequence
+
+* Build the federal baseline
+
+    Confirm each statutory citation, applicable agency, legal duty, and policy owner.
+
+* Map state and local law
+
+    Add jurisdiction-specific public records, procurement, administrative procedure, open-meetings, and whistleblower laws.
+
+* Perform a capacity assessment
+
+    Determine whether existing compliance officers, auditors, inspectors general, records officers, and research functions already provide adequate capacity.
+
+* Create the evidence ledger
+
+    Connect each policy requirement to source records, control tests, findings, and corrective actions.
+
+* Test implementation
+
+    Verify whether policies are actually followed, rather than treating policy adoption as proof of compliance.
+
+Important for the ESC: The matrix should initially function as a research and governance instrument. If it is later used to advise a federal agency, the Federal Advisory Committee Act applicability question must be assessed before the committee is established or utilized for that purpose.
+
+### 4\. Next jurisdictional development
+
+The most useful next expansion is to complete the state and local portion with actual statutory citations rather than leave generic placeholders. I can develop the Oklahoma, Illinois, and Colorado jurisdictional extensions as a comparative matrix, while keeping the federal baseline intact.
